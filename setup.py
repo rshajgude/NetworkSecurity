@@ -21,7 +21,6 @@ def get_requirements()->List[str]:
     
     return requirement_list
 
-print(get_requirements())
 
 setup(
     name="NetworkSecurity",
